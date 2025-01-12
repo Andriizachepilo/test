@@ -7,6 +7,6 @@ import (
 
 func main() {
 	plugin.Serve(&plugin.ServeOpts{
-		ProviderFunc: cicd.Provider, // Registering the CICD provider
+		ProviderFunc: cicd.Provider, 
 	})
 }

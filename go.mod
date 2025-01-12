@@ -2,10 +2,7 @@ module github.com/Andriizachepilo/test
 
 go 1.22.5
 
-require (
-	github.com/Andriizachepilo/test/cicd v0.0.0-20250106111237-04979aae04e2
-	github.com/hashicorp/terraform-plugin-sdk/v2 v2.35.0
-)
+require github.com/hashicorp/terraform-plugin-sdk/v2 v2.35.0
 
 require (
 	github.com/agext/levenshtein v1.2.2 // indirect
