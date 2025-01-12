@@ -1,7 +1,7 @@
 package main
 
 import (
-	"github.com/Andriizachepilo/test/cicd" // Replace with the actual module path
+	"github.com/Andriizachepilo/test/cicd"
 	"github.com/hashicorp/terraform-plugin-sdk/v2/plugin"
 )
 
